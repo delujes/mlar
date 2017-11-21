@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://delujes.github.io/mlar/sitemap.xml
